@@ -1,4 +1,4 @@
-The Roblox Battlegrounds | Dev 0.0.4 | Mobile
+The Roblox Battlegrounds | Dev 0.0.5 | Mobile
 
 # How to Play
 ## PC
@@ -7,7 +7,7 @@ The Roblox Battlegrounds | Dev 0.0.4 | Mobile
 - Going into the contents, find index.html and open it with your browser.
 - Play using arrows, z, and q or use the touch controls!
 ### Second Option
-- Go to firedworksapk.github.io/RobloxBattlegroundsDev0.0.5
+- Go to firedworksapk.github.io/RobloxBattlegroundsDev0.0.5 (Version Currently Outdated)
 ## Android
 - Do the first 3 steps of PC, and launch into your android browser.
 ### Second Option
