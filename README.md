@@ -7,6 +7,8 @@ The Roblox Battlegrounds | Dev 0.0.4 | Mobile
 - Going into the contents, find index.html and open it with your browser.
 - Play using arrows, z, and q or use the touch controls!
 ### Second Option
-- Go to firedworksapk.github.io/RobloxBattlegroundsDev0.0.4
+- Go to firedworksapk.github.io/RobloxBattlegroundsDev0.0.5
 ## Android
 - Do the first 3 steps of PC, and launch into your android browser.
+### Second Option
+- Ask for the APK file or go to Scratch Coders > #devlogs > #The Roblox Battlegrounds.
